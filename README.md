@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Jean Paulos 😁
+## Estudando para ser um Front-End 😁
 
  <div>
    <a href="https://github.com/Jean-Paulos">
