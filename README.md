@@ -1,4 +1,4 @@
-## Estudando para ser um Front-End 😁
+## Estudante Front-end / HTML - CSS - JavaScript
 
  <div>
    <a href="https://github.com/Jean-Paulos">
