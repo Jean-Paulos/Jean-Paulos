@@ -1,8 +1,8 @@
 ## Estudante Front-end / HTML - CSS - JavaScript
 
-<div>
+<div align="center">
    <a href="https://github.com/Jean-Paulos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-paulos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-paulos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Paulos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <hr>
